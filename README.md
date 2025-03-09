@@ -37,6 +37,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  
+  <!-- DevOps Teknolojileri -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab CI/CD" alt="GitLab CI/CD" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
 </div>
 
 ## 📊 GitHub İstatistiklerim
@@ -47,22 +65,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AE52&layout=compact&theme=radical)
 
-## 🏆 GitHub Rozetleri
-
-![GitHub Rozetleri](https://github-profile-trophy.vercel.app/?username=AE52&theme=onedark&column=7)
-
-## 🥇 GitHub Rozet Başarıları
-
-GitHub, katkılarınıza ve etkinliklerinize bağlı olarak profilinize otomatik olarak rozetler ekler:
-
-| Rozet | İsim | Nasıl Kazanılır |
-|----------|----------|----------|
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60px"> | Pull Shark | Birleştirilmiş çok sayıda Pull Request |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px"> | Starstruck | Çok sayıda yıldız alan bir repo oluşturma |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px"> | Quickdraw | Açıldıktan sonra 5 dakika içinde kapanan bir issue |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60px"> | Pair Extraordinaire | Ortak yazarlı birçok commit |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60px"> | Galaxy Brain | Cevaplanmış birçok tartışma |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px"> | YOLO | Review olmadan merge edilmiş bir PR |
 
 ## 📂 Son Projelerim
 
@@ -81,8 +83,4 @@ GitHub, katkılarınıza ve etkinliklerinize bağlı olarak profilinize otomatik
 
 ---
 
-<div align="center">
-⭐️ GitHub Rozet Ustası tarafından [10.03.2025] tarihinde oluşturulmuştur
-<br />
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-</div>
+
