@@ -8,7 +8,7 @@
 
 ### Software Developer / DevOps Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Yazılım%20Geliştirici;DevOps%20Mühendisi;Sürekli%20Öğrenen;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;DevOps;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 
 📍 **İstanbul, Türkiye**
 
