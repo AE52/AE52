@@ -88,3 +88,6 @@
 
 ## 🏆 GitHub Rozetleri
 Bu README GitHub rozetlerini kazanmak için güncellenmiştir.
+
+## 🏆 GitHub Rozetleri
+Bu README GitHub rozetlerini kazanmak için güncellenmiştir.
